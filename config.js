@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Morgan',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Nextcloud',
+			icon: 'cloudy',
+			link: 'https://nc.yeetbox.au',
 		},
 		{
 			id: '5',
