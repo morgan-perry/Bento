@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'uq',
 			icon: 'glasses',
-			link: 'https://learn.uq.edu.au/,
+			link: 'https://learn.uq.edu.au/',
 		},
 		{
 			id: '6',
