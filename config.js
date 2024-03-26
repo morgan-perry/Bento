@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://posteo.de',
 		},
 		{
 			id: '3',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'uq',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://learn.uq.edu.au/,
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'yuchub',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'breakcore',
+					link: 'https://youtu.be/hYWJrZ4G6o8?si=Q6aPnf4wLzi_Zmjg',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'chill',
+					link: 'https://youtu.be/PYfhbYIxBxE?si=l8p9qo13_7Qs5pDm',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'gecs',
+					link: 'https://youtu.be/8NWHnWbpxmc?si=XmTVNAoorRLBFreP',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wang Wen - Sweet Home, Go! - Full Album',
+					link: 'https://youtu.be/gFiKSTEBiVA?si=MmMUJ6VniuWUmu5A',
 				},
 			],
 		},
